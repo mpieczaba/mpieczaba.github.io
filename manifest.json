@@ -1,0 +1,21 @@
+{
+  "name": "Mikołaj Pieczaba",
+  "short_name": "pieczaba.me",
+  "icons": [
+    {
+      "src": "/favicon-small.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f9fa",
+  "theme_color": "#f8f9fa"
+}
